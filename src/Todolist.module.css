@@ -1,0 +1,12 @@
+.errorMessage {
+    color: red;
+}
+.error {
+    border: red 3px solid;
+}
+.button {
+    background-color: bisque;
+}
+.isDone {
+    opacity: 0.5;
+}
